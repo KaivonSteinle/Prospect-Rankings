@@ -1,0 +1,191 @@
+Player Name,List_Year,Rk,R,Rookie_Year,Rookie_IP,Rookie_WAR,Rookie_FIP,Year2,Y2_IP,Y2_WAR,Y2_FIP,Year3,Y3_IP,Y3_WAR,Y3_FIP,Team Name,Team Rank,Pos,Pos2,Wt,Bats,Throws,Born Date,Place Of Birth,DraftYear,Round,Pick,Team,HiLvl,LastMLBSeasonToDate,BATop100,BATeam,BPTop100,FGTop100,MLBPipelineTop100,MLBPipelineTeam,Made_MLB
+Stephen Strasburg,2010,2,2010,2010,68,2.08,2.3,2011,24,1.1,1.28,2012,159.1,4,2.82,Washington Nationals,1,P,P,220,R,R,7/20/88,"San Diego,CA",2009,1,1,WAS,MLB,2020,2,1,NA,NA,NA,NA,1
+Matt Moore,2012,2,2011,2012,177.1,2.4,3.93,2013,150.1,1.7,3.95,2014,10,0,4.73,Tampa Bay Rays,1,P,P,200,L,L,6/18/89,"Fort Walton Beach,FL",2007,8,245,TBA,MLB,2019,2,1,NA,NA,NA,NA,1
+Yu Darvish,2012,4,2012,2012,191.1,4.7,3.29,2013,209.2,4.6,3.28,2014,144.1,3.5,2.84,Texas Rangers,1,P,P,190,R,R,8/16/86,"Osaka,JP",2012,0,0,TEX,MLB,2020,4,1,NA,NA,NA,NA,1
+Masahiro Tanaka,2014,4,2014,2014,,,,2015,,,,2016,,,,New York Yankees,---,P,P,205,R,R,11/1/88,"Itami,JP",2014,0,0,NYA,MLB,2020,4,NA,NA,NA,NA,NA,1
+Julio Urias,2016,4,2016,2016,,,,2017,,,,2018,,,,Los Angeles Dodgers,2,P,P,160,L,L,8/12/96,"Culiacan,MX",2012,0,0,LAN,MLB,2020,4,2,4,2,NA,NA,1
+Jose Fernandez,2013,5,2013,2013,,,,2014,,,,2015,,,,Miami Marlins,1,P,P,215,R,R,7/31/92,"Tampa,FL",2011,1,14,MIA,MLB,2016,5,1,NA,NA,NA,NA,1
+Brian Matusz,2010,5,2009,2010,,,,2011,,,,2012,,,,Baltimore Orioles,1,P,P,200,L,L,2/11/87,"Grand Junction,CO",2008,1,4,BAL,MLB,2016,5,1,NA,NA,NA,NA,1
+Jeremy Hellickson,2011,6,2010,2011,,,,2012,,,,2013,,,,Tampa Bay Rays,1,P,P,185,R,R,4/8/87,"Des Moines,IA",2005,4,118,TBA,MLB,2019,6,1,NA,NA,NA,NA,1
+Shelby Miller,2013,6,2012,2013,,,,2014,,,,2015,,,,St. Louis Cardinals,2,P,P,195,R,R,10/10/90,"Brownwood,TX",2009,1,19,SLN,MLB,2019,6,2,NA,NA,NA,NA,1
+Gerrit Cole,2013,7,2013,2013,,,,2014,,,,2015,,,,Pittsburgh Pirates,1,P,P,215,R,R,9/8/90,"Newport Beach,CA",2011,1,1,PIT,MLB,2020,7,1,NA,NA,NA,NA,1
+Aroldis Chapman,2011,7,2010,2011,,,,2012,,,,2013,,,,Cincinnati Reds,1,P,P,185,L,L,2/28/88,"Holguin,CU",2010,0,0,CIN,MLB,2020,7,1,NA,NA,NA,NA,1
+Archie Bradley,2014,9,2015,2015,,,,2016,,,,2017,,,,Arizona Diamondbacks,1,P,P,225,R,R,8/10/92,"Broken Arrow,OK",2011,1,7,ARI,MLB,2020,9,1,NA,NA,NA,NA,1
+Neftali Feliz,2010,9,2009,2010,,,,2011,,,,2012,,,,Texas Rangers,1,P,P,180,R,R,5/2/88,"Azua,DR",2005,0,0,ATL,MLB,2017,9,1,NA,NA,NA,NA,1
+Zack Wheeler,2013,11,2013,2013,,,,2014,,,,2015,,,,New York Mets,1,P,P,180,R,R,5/30/90,"Dallas,GA",2009,1,6,SFN,MLB,2020,11,1,NA,NA,NA,NA,1
+Noah Syndergaard,2015,11,2015,2015,,,,2016,,,,2017,,,,New York Mets,1,P,P,200,L,R,8/29/92,"Mansfield,TX",2010,1,38,TOR,MLB,2019,11,1,NA,NA,NA,NA,1
+Taijuan Walker,2014,11,2013,2014,,,,2015,,,,2016,,,,Seattle Mariners,1,P,P,195,R,R,8/13/92,"Yucaipa,CA",2010,1,43,SEA,MLB,2020,11,1,NA,NA,NA,NA,1
+Blake Snell,2016,12,2016,2016,,,,2017,,,,2018,,,,Tampa Bay Rays,1,P,P,180,L,L,12/4/92,"Seattle,WA",2011,1,52,TBA,MLB,2020,12,1,14,1,NA,NA,1
+Tyler Skaggs,2013,12,2012,2013,,,,2014,,,,2015,,,,Arizona Diamondbacks,1,P,P,180,L,L,7/13/91,"Venice,CA",2009,1,40,ANA,MLB,2019,12,1,NA,NA,NA,NA,1
+Steven Matz,2016,13,2015,2016,,,,2017,,,,2018,,,,New York Mets,1,P,P,192,R,L,5/29/91,"Stony Brook,NY",2009,2,72,NYN,MLB,2020,13,1,15,1,NA,NA,1
+Madison Bumgarner,2010,14,2009,2010,,,,2011,,,,2012,,,,San Francisco Giants,2,P,P,255,R,L,8/1/89,"Hudson,NC",2007,1,10,SFN,MLB,2020,14,2,NA,NA,NA,NA,1
+Carlos Rodon,2015,15,2015,2015,,,,2016,,,,2017,,,,Chicago White Sox,1,P,P,234,L,L,12/10/92,"Miami,FL",2014,1,3,CHA,MLB,2020,15,1,NA,NA,NA,NA,1
+Francis Martes,2017,15,2017,2017,,,,2018,,,,2019,,,,Houston Astros,1,P,P,170,R,R,11/24/95,"Cotui,DR",2012,0,0,MIA,MLB,2017,15,1,20,1,NA,NA,1
+Michael Pineda,2011,16,2011,2011,,,,2012,,,,2013,,,,Seattle Mariners,2,P,P,180,R,R,1/18/89,"San Cristobal,DR",2005,0,0,SEA,MLB,2020,16,2,NA,NA,NA,NA,1
+John Lamb,2011,18,2015,2015,49.2,0.6,4.16,2016,70,0.4,5.46,2017,10,7.36,-0.2,Kansas City Royals,4,P,P,185,L,L,7/10/90,"Laguna Hills,CA",2008,5,145,KCA,MLB,2018,18,4,NA,NA,NA,NA,1
+Daniel Norris,2015,18,2014,2015,,,,2016,,,,2017,,,,Toronto Blue Jays,1,P,P,180,L,L,4/25/93,"Johnson City,TN",2011,2,74,TOR,MLB,2020,18,1,NA,NA,NA,NA,1
+Chris Sale,2011,20,2010,2011,,,,2012,,,,2013,,,,Chicago White Sox,1,P,P,183,L,L,3/30/89,"Lakeland,FL",2010,1,13,CHA,MLB,2019,20,1,NA,NA,NA,NA,1
+Kevin Gausman,2014,20,2013,2014,,,,2015,,,,2016,,,,Cincinnati Reds,2,P,P,170,L,R,1/6/91,"Centennial,CO",2012,1,4,BAL,MLB,2020,20,2,NA,NA,NA,NA,1
+Jacob Turner,2012,22,2011,2012,,,,2013,,,,2014,,,,Detroit Tigers,1,P,P,205,R,R,5/21/91,"St. Charles,MO",2009,1,9,DET,MLB,2018,22,1,NA,NA,NA,NA,1
+Mike Montgomery,2012,23,2015,2015,,,,2016,,,,2017,,,,Kansas City Royals,1,P,P,180,L,L,7/1/89,"Valencia,CA",2008,1,36,KCA,MLB,2020,23,1,NA,NA,NA,NA,1
+Tyler Glasnow,2017,23,2016,2017,,,,2018,,,,2019,,,,Pittsburgh Pirates,3,P,P,200,L,R,8/23/93,"Newhall,CA",2011,5,152,PIT,MLB,2020,23,3,8,1,NA,NA,1
+Lucas Giolito,2017,25,2016,2017,,,,2018,,,,2019,,,,Chicago White Sox,---,P,P,230,R,R,7/14/94,"Santa Monica,CA",2012,1,16,WAS,MLB,2020,25,11,2,NA,NA,NA,1
+Jarrod Parker,2012,26,2011,2012,,,,2013,,,,2014,,,,Oakland Athletics,4,P,P,180,R,R,11/24/88,"Fort Wayne,IN",2007,1,9,ARI,MLB,2013,26,1,4,NA,NA,NA,1
+Yordano Ventura,2014,26,2013,2014,,,,2015,,,,2016,,,,Kansas City Royals,2,P,P,140,R,R,6/3/91,"Samana,DR",2008,0,0,KCA,MLB,2016,26,2,NA,NA,NA,NA,1
+Aaron Sanchez,2015,27,2014,2015,,,,2016,,,,2017,,,,Toronto Blue Jays,2,P,P,190,R,R,7/1/92,"Barstow,CA",2010,1,34,TOR,MLB,2019,27,2,NA,NA,NA,NA,1
+Zack Britton,2011,28,2011,2011,,,,2012,,,,2013,,,,Baltimore Orioles,2,P,P,190,L,L,12/22/87,"Panorama City,CA",2006,3,85,BAL,MLB,2020,28,2,NA,NA,NA,NA,1
+Jose Berrios,2016,28,2016,2016,,,,2017,,,,2018,,,,Minnesota Twins,2,P,P,190,R,R,5/27/94,"Bayamon,PR",2012,1,32,MIN,MLB,2020,28,2,19,2,NA,NA,1
+Danny Hultzen,2013,29,2019,2019,3.1,0.1,2.91,2020,,,,2021,,,,Seattle Mariners,3,P,P,195,L,L,11/28/89,"Bethesda,MD",2011,1,2,SEA,MLB,2019,29,3,NA,NA,NA,NA,1
+Manny Banuelos,2012,29,2015,2015,,,,2016,,,,2017,,,,New York Yankees,2,P,P,155,L,L,3/13/91,"El Vergelito,MX",2008,0,0,NYA,MLB,2019,29,2,NA,NA,NA,NA,1
+Jameson Taillon,2015,29,2016,2016,,,,2017,,,,2018,,,,Pittsburgh Pirates,2,P,P,225,R,R,11/18/91,"The Woodlands,TX",2010,1,2,PIT,MLB,2019,29,2,NA,NA,NA,NA,1
+Jose De Leon,2017,29,2016,2017,,,,2018,,,,2019,,,,Tampa Bay Rays,3,P,P,210,R,R,8/7/92,"Isabela,PR",2013,24,724,LAN,MLB,2020,29,3,33,3,NA,NA,1
+Drew Pomeranz,2012,30,2011,2012,,,,2013,,,,2014,,,,Colorado Rockies,1,P,P,190,R,L,11/22/88,"Collierville,TN",2010,1,5,CLE,MLB,2020,30,1,NA,NA,NA,NA,1
+Carlos Martinez,2014,31,2013,2014,,,,2015,,,,2016,,,,St. Louis Cardinals,2,P,P,165,R,R,9/21/91,"Colinas del sur,DR",2012,0,0,SLN,MLB,2020,31,2,NA,NA,NA,NA,1
+Reynaldo Lopez,2017,31,2016,2017,,,,2018,,,,2019,,,,Chicago White Sox,---,P,P,185,R,R,1/4/94,"San Pedro de Macoris,DR",2012,0,0,WAS,MLB,2020,31,46,4,NA,NA,NA,1
+Tyler Matzek,2011,32,2014,2014,,,,2015,,,,2016,,,,Colorado Rockies,1,P,P,230,L,L,10/19/90,"Mission Viejo,CA",2009,1,11,COL,MLB,2020,32,1,NA,NA,NA,NA,1
+Robert Stephenson,2016,32,2016,2016,,,,2017,,,,2018,,,,Cincinnati Reds,1,P,P,190,R,R,2/24/93,"Martinez,CA",2011,1,27,CIN,MLB,2020,32,1,35,2,NA,NA,1
+Kyle Crick,2014,33,2017,2017,,,,2018,,,,2019,,,,San Francisco Giants,1,P,P,220,L,R,11/30/92,"Sherman,TX",2011,1,49,SFN,MLB,2020,33,1,NA,NA,NA,NA,1
+Christian Friedrich,2010,33,2012,2012,,,,2013,,,,2014,,,,Colorado Rockies,2,P,P,210,R,L,7/8/87,"Evanston,IL",2008,1,25,COL,MLB,2016,33,2,NA,NA,NA,NA,1
+Josh Hader,2017,33,2017,2017,,,,2018,,,,2019,,,,Milwaukee Brewers,2,P,P,160,L,L,4/7/94,"Millersville,MD",2012,19,582,BAL,MLB,2020,33,2,38,3,NA,NA,1
+Matt Wisler,2015,34,2015,2015,,,,2016,,,,2017,,,,San Diego Padres,1,P,P,175,R,R,9/12/92,"Bryan,OH",2011,7,233,SDN,MLB,2020,34,1,NA,NA,NA,NA,1
+Wade Davis,2010,34,2009,2010,,,,2011,,,,2012,,,,Tampa Bay Rays,3,P,P,220,R,R,9/7/85,"Lake Wales,FL",2004,3,75,TBA,MLB,2020,34,3,NA,NA,NA,NA,1
+Luis Severino,2015,35,2015,2015,,,,2016,,,,2017,,,,New York Yankees,1,P,P,195,R,R,2/20/94,"Sabana del Mar,DR",2012,0,0,NYA,MLB,2019,35,1,NA,NA,NA,NA,1
+Brad Peacock,2012,36,2011,2012,,,,2013,,,,2014,,,,Oakland Athletics,2,P,P,175,R,R,2/2/88,"Miami,FL",2006,41,1231,WAS,MLB,2020,36,2,3,NA,NA,NA,1
+Chris Archer,2013,36,2012,2013,,,,2014,,,,2015,,,,Tampa Bay Rays,2,P,P,165,R,R,9/26/88,"Clayton,NC",2006,5,161,CLE,MLB,2019,36,2,NA,NA,NA,NA,1
+Jeff Hoffman,2017,36,2016,2017,,,,2018,,,,2019,,,,Colorado Rockies,3,P,P,182,R,R,1/8/93,"Latham,NY",2014,1,9,TOR,MLB,2020,36,3,44,2,NA,NA,1
+Mike Minor,2011,37,2010,2011,,,,2012,,,,2013,,,,Atlanta Braves,4,P,P,210,R,L,12/26/87,"Chapel Hill,TN",2009,1,7,ATL,MLB,2020,37,4,NA,NA,NA,NA,1
+Jon Gray,2016,37,2015,2016,,,,2017,,,,2018,,,,Colorado Rockies,1,P,P,245,R,R,11/5/91,"Chandler,OK",2013,1,3,COL,MLB,2020,37,1,33,2,NA,NA,1
+Carl Edwards,2015,38,2015,2015,,,,2016,,,,2017,,,,Chicago Cubs,5,P,P,155,R,R,9/3/91,"Newberry,SC",2011,48,1464,TEX,MLB,2020,38,5,NA,NA,NA,NA,1
+Aaron Nola,2015,39,2015,2015,,,,2016,,,,2017,,,,Philadelphia Phillies,2,P,P,170,R,R,6/4/93,"Baton Rouge,LA",2014,1,7,PHI,MLB,2020,39,2,NA,NA,NA,NA,1
+Trevor Rosenthal,2013,39,2012,2013,,,,2014,,,,2015,,,,St. Louis Cardinals,4,P,P,190,R,R,5/29/90,"Lee's Summit,MO",2009,21,639,SLN,MLB,2020,39,4,NA,NA,NA,NA,1
+Aaron Crow,2010,40,2011,2011,,,,2012,,,,2013,,,,Kansas City Royals,2,P,P,205,R,R,11/11/86,"Topeka,KS",2009,1,12,KCA,MLB,2014,40,2,NA,NA,NA,NA,1
+Matt Barnes,2013,40,2014,2014,,,,2015,,,,2016,,,,Boston Red Sox,3,P,P,208,R,R,6/17/90,"Bethel,CT",2011,1,19,BOS,MLB,2020,40,3,NA,NA,NA,NA,1
+Jordan Lyles,2011,42,2011,2011,,,,2012,,,,2013,,,,Houston Astros,1,P,P,185,R,R,10/19/90,"Hartsville,SC",2008,1,38,HOU,MLB,2020,42,1,NA,NA,NA,NA,1
+Hyun-Jin Ryu,2013,42,2013,2013,,,,2014,,,,2015,,,,Los Angeles Dodgers,1,P,P,215,L,L,3/25/87,"Inchoen,KR",2012,0,0,LAN,MLB,2020,42,1,NA,NA,NA,NA,1
+Andrew Heaney,2015,42,2014,2015,,,,2016,,,,2017,,,,Los Angeles Angels,---,P,P,164,L,L,6/5/91,"Oklahoma City,OK",2012,1,9,MIA,MLB,2020,42,NA,NA,NA,NA,NA,1
+Nick Hagadone,2010,44,2011,2011,,,,2012,,,,2013,,,,Cleveland Indians,3,P,P,230,L,L,1/1/86,"Sandpoint,ID",2007,1,55,BOS,MLB,2015,44,3,NA,NA,NA,NA,1
+Henry Owens,2015,44,2015,2015,,,,2016,,,,2017,,,,Boston Red Sox,2,P,P,190,L,L,7/21/92,"Huntington Beach,CA",2011,1,36,BOS,MLB,2016,44,2,NA,NA,NA,NA,1
+Jenrry Mejia,2011,44,2010,2011,,,,2012,,,,2013,,,,New York Mets,1,P,P,162,R,R,10/11/89,"Azua,DR",2007,0,0,NYN,MLB,2015,44,1,NA,NA,NA,NA,1
+Julio Teheran,2013,44,2011,2013,,,,2014,,,,2015,,,,Atlanta Braves,1,P,P,150,R,R,1/27/91,"Cartagena,CB",2007,0,0,ATL,MLB,2020,44,1,NA,NA,NA,NA,1
+Casey Kelly,2013,45,2012,2013,,,,2014,,,,2015,,,,San Diego Padres,1,P,P,194,R,R,10/4/89,"Sarasota,FL",2008,1,30,BOS,MLB,2018,45,1,NA,NA,NA,NA,1
+Randall Delgado,2012,46,2011,2012,,,,2013,,,,2014,,,,Atlanta Braves,3,P,P,165,R,R,2/9/90,"Las Tablas,PN",2006,0,0,ATL,MLB,2018,46,3,NA,NA,NA,NA,1
+Casey Crosby,2010,47,2012,2012,,,,2013,,,,2014,,,,Detroit Tigers,2,P,P,200,R,L,9/17/88,"Maple Park,IL",2007,5,181,DET,MLB,2012,47,2,NA,NA,NA,NA,1
+Alex White,2011,47,2011,2011,,,,2012,,,,2013,,,,Cleveland Indians,2,P,P,185,R,R,8/29/88,"Greenville,NC",2009,1,15,CLE,MLB,2012,47,2,NA,NA,NA,NA,1
+Michael Fulmer,2016,47,2016,2016,,,,2017,,,,2018,,,,Detroit Tigers,1,P,P,200,R,R,3/15/93,"Oklahoma City,OK",2011,1,44,NYN,MLB,2020,47,1,53,1,NA,NA,1
+Chris Withrow,2010,48,2013,2013,,,,2014,,,,2015,,,,Los Angeles Dodgers,2,P,P,195,R,R,4/1/89,"Midland,TX",2007,1,20,LAN,MLB,2016,48,2,NA,NA,NA,NA,1
+Sean Manaea,2016,48,2016,2016,,,,2017,,,,2018,,,,Oakland Athletics,2,P,P,235,R,L,2/1/92,"Wantah,IN",2013,1,34,KCA,MLB,2020,48,2,68,2,NA,NA,1
+Dylan Bundy,2015,48,2012,2015,,,,2016,,,,2017,,,,Baltimore Orioles,1,P,P,200,B,R,11/15/92,"Tulsa,OK",2011,1,4,BAL,MLB,2020,48,1,NA,NA,NA,NA,1
+Jarred Cosart,2012,50,2013,2013,,,,2014,,,,2015,,,,Houston Astros,2,P,P,180,R,R,5/25/90,"League City,TX",2008,38,1156,PHI,MLB,2017,50,2,NA,NA,NA,NA,1
+Kenta Maeda,2016,50,2016,2016,,,,2017,,,,2018,,,,Los Angeles Dodgers,5,P,P,154,R,R,4/11/88,"Osaka,JP",2016,0,0,LAN,MLB,2020,50,5,NA,NA,NA,NA,1
+Marco Gonzales,2015,50,2014,2015,,,,2016,,,,2017,,,,St. Louis Cardinals,1,P,P,185,L,L,2/16/92,"Fort Collins,CO",2013,1,19,SLN,MLB,2020,50,1,NA,NA,NA,NA,1
+Luke Weaver,2017,50,2016,2017,,,,2018,,,,2019,,,,St. Louis Cardinals,2,P,P,185,R,R,8/21/93,"DeLand,FL",2014,1,27,SLN,MLB,2020,50,2,68,3,NA,NA,1
+David Paulino,2017,51,2016,2017,,,,2018,,,,2019,,,,Houston Astros,3,P,P,180,R,R,2/6/94,"Nizao,DR",2010,0,0,DET,MLB,2018,51,3,54,3,NA,NA,1
+Kohl Stewart,2014,52,2018,2018,36.2,0.4,3.92,2019,25.1,-0.2,6.06,2020,,,,Minnesota Twins,4,P,P,200,R,R,10/7/94,"Houston,TX",2013,1,4,MIN,MLB,2019,52,4,NA,NA,NA,NA,1
+Erick Fedde,2017,52,2017,2017,,,,2018,,,,2019,,,,Washington Nationals,2,P,P,165,R,R,2/25/93,"Las Vegas,NV",2014,1,18,WAS,MLB,2020,52,2,60,2,NA,NA,1
+German Marquez,2017,53,2016,2017,,,,2018,,,,2019,,,,Colorado Rockies,5,P,P,184,R,R,2/22/95,"San Felix,VZ",2011,0,0,TBA,MLB,2020,53,5,73,4,NA,NA,1
+Matt Harvey,2012,54,2012,2012,,,,2013,,,,2014,,,,New York Mets,2,P,P,210,R,R,3/27/89,"New London,CT",2010,1,7,NYN,MLB,2020,54,2,NA,NA,NA,NA,1
+Marcus Stroman,2014,55,2014,2014,,,,2015,,,,2016,,,,Toronto Blue Jays,2,P,P,180,R,R,5/1/91,"Stony Brook,NY",2012,1,22,TOR,MLB,2019,55,2,NA,NA,NA,NA,1
+Brandon Finnegan,2015,55,2014,2015,,,,2016,,,,2017,,,,Kansas City Royals,2,P,P,180,L,L,4/14/93,"Fort Worth,TX",2014,1,17,KCA,MLB,2018,55,2,NA,NA,NA,NA,1
+Edwin Escobar,2014,56,2014,2014,,,,2015,,,,2016,,,,San Francisco Giants,2,P,P,185,L,L,4/22/92,"La Buaera,VZ",2008,0,0,TEX,MLB,2016,56,2,NA,NA,NA,NA,1
+Lucas Sims,2014,57,2017,2017,,,,2018,,,,2019,,,,Atlanta Braves,1,P,P,200,R,R,5/10/94,"Lawrenceville,GA",2012,1,21,ATL,MLB,2020,57,1,NA,NA,NA,NA,1
+Simon Castro,2011,58,2013,2013,,,,2014,,,,2015,,,,San Diego Padres,3,P,P,203,R,R,4/9/88,"San Jose de los Llanos,DR",2006,0,0,SDN,MLB,2017,58,3,NA,NA,NA,NA,1
+Raisel Iglesias,2015,58,2015,2015,,,,2016,,,,2017,,,,Cincinnati Reds,2,P,P,163,R,R,1/4/90,"Isla de la Juventud,CU",2014,0,0,CIN,MLB,2020,58,2,NA,NA,NA,NA,1
+Mike Foltynewicz,2014,59,2014,2014,,,,2015,,,,2016,,,,Houston Astros,4,P,P,200,R,R,10/7/91,"Sterling,IL",2010,1,19,HOU,MLB,2020,59,4,NA,NA,NA,NA,1
+Eduardo Rodriguez,2015,59,2015,2015,,,,2016,,,,2017,,,,Boston Red Sox,4,P,P,231,L,L,4/7/93,"Valencia,VZ",2010,0,0,BAL,MLB,2019,59,4,NA,NA,NA,NA,1
+Jorge Lopez,2016,59,2015,2016,,,,2017,,,,2018,,,,Milwaukee Brewers,2,P,P,205,R,R,2/10/93,"Cayey,PR",2011,2,70,MIL,MLB,2020,59,2,57,3,NA,NA,1
+Kyle Freeland,2015,60,2017,2017,,,,2018,,,,2019,,,,Colorado Rockies,3,P,P,170,L,L,5/14/93,"Denver,CO",2014,1,8,COL,MLB,2020,60,3,NA,NA,NA,NA,1
+Aaron Blair,2016,60,2016,2016,,,,2017,,,,2018,,,,Atlanta Braves,3,P,P,205,R,R,5/26/92,"Las Vegas,NV",2013,1,36,ARI,MLB,2017,60,3,56,4,NA,NA,1
+Taylor Guerrieri,2013,62,2018,2018,9.2,-0.1,5.02,2019,26.1,-0.1,5.38,2020,,,,Tampa Bay Rays,3,P,P,195,R,R,12/1/92,"Columbia,SC",2011,1,24,TBA,MLB,2019,62,3,NA,NA,NA,NA,1
+Alex Meyer,2015,62,2015,2015,,,,2016,,,,2017,,,,Minnesota Twins,5,P,P,220,R,R,1/3/90,"Greensburg,IN",2011,1,23,WAS,MLB,2017,62,5,NA,NA,NA,NA,1
+Dellin Betances,2012,63,2011,2012,,,,2013,,,,2014,,,,New York Yankees,3,P,P,215,R,R,3/23/88,"Brooklyn,NY",2006,8,254,NYA,MLB,2020,63,3,NA,NA,NA,NA,1
+Erik Johnson,2014,63,2013,2014,,,,2015,,,,2016,,,,Chicago White Sox,2,P,P,210,R,R,12/30/89,"Mountain View,CA",2011,2,80,CHA,MLB,2016,63,2,NA,NA,NA,NA,1
+Nick Kingham,2014,64,2018,2018,,,,2019,,,,2020,,,,Pittsburgh Pirates,5,P,P,215,R,R,11/8/91,"Las Vegas,NV",2010,4,117,PIT,MLB,2019,64,5,NA,NA,NA,NA,1
+Sonny Gray,2012,65,2013,2013,,,,2014,,,,2015,,,,Oakland Athletics,3,P,P,185,R,R,11/7/89,"Smyrna,TN",2011,1,18,OAK,MLB,2020,65,3,NA,NA,NA,NA,1
+Daniel Hudson,2010,66,2009,2010,,,,2011,,,,2012,,,,Chicago White Sox,3,P,P,225,R,R,3/9/87,"Virginia Beach,VA",2008,5,150,CHA,MLB,2020,66,3,NA,NA,NA,NA,1
+Addison Reed,2012,66,2011,2012,,,,2013,,,,2014,,,,Chicago White Sox,1,P,P,215,L,L,12/27/88,"Montclair,CA",2010,3,95,CHA,MLB,2018,66,1,NA,NA,NA,NA,1
+Anthony Ranaudo,2011,67,2014,2014,,,,2015,,,,2016,,,,Boston Red Sox,4,P,P,225,R,R,9/9/89,"Jackson,NJ",2010,1,39,BOS,MLB,2016,67,4,NA,NA,NA,NA,1
+Jake Odorizzi,2014,67,2012,2014,,,,2015,,,,2016,,,,Tampa Bay Rays,1,P,P,175,R,R,3/27/90,"Highland,IL",2008,1,32,MIL,MLB,2020,67,1,NA,NA,NA,NA,1
+Hunter Harvey,2015,68,2019,2019,,,,2020,,,,2021,,,,Baltimore Orioles,2,P,P,210,R,R,12/9/94,"Catawba,NC",2013,1,22,BAL,MLB,2020,68,2,NA,NA,NA,NA,1
+Alex Colome,2010,68,2013,2013,,,,2014,,,,2015,,,,Tampa Bay Rays,7,P,P,184,R,R,12/31/88,"San Pedro de Macoris,DR",2007,0,0,TBA,MLB,2020,68,7,NA,NA,NA,NA,1
+Danny Duffy,2011,68,2011,2011,,,,2012,,,,2013,,,,Kansas City Royals,7,P,P,185,L,L,12/21/88,"Goleta,CA",2007,3,96,KCA,MLB,2020,68,7,NA,NA,NA,NA,1
+Kyle Gibson,2013,68,2013,2013,,,,2014,,,,2015,,,,Minnesota Twins,5,P,P,210,R,R,10/23/87,"Greenfield,IN",2009,1,22,MIN,MLB,2020,68,5,NA,NA,NA,NA,1
+Rafael Montero,2014,68,2014,2014,,,,2015,,,,2016,,,,New York Mets,3,P,P,170,R,R,10/17/90,"Higuerito,DR",2011,0,0,NYN,MLB,2020,68,3,NA,NA,NA,NA,1
+Dillon Tate,2016,69,2019,2019,,,,2020,,,,2021,,,,Texas Rangers,5,P,P,195,R,R,5/1/94,"Harbor City,CA",2015,1,4,TEX,MLB,2020,69,5,36,3,NA,NA,1
+Trevor May,2012,69,2014,2014,,,,2015,,,,2016,,,,Philadelphia Phillies,1,P,P,215,R,R,9/23/89,"Kelso,WA",2008,4,136,PHI,MLB,2020,69,1,NA,NA,NA,NA,1
+Wily Peralta,2013,69,2012,2013,,,,2014,,,,2015,,,,Milwaukee Brewers,1,P,P,191,R,R,5/8/89,"Samana,DR",2005,0,0,MIL,MLB,2019,69,1,NA,NA,NA,NA,1
+Cody Reed,2017,69,2016,2017,,,,2018,,,,2019,,,,Cincinnati Reds,2,P,P,220,L,L,4/15/93,"Horn Lake,MS",2013,2,46,KCA,MLB,2020,69,2,NA,NA,NA,NA,1
+Taylor Jungmann,2012,70,2015,2015,,,,2016,,,,2017,,,,Milwaukee Brewers,2,P,P,195,R,R,12/18/89,"Temple,TX",2011,1,12,MIL,MLB,2017,70,2,NA,NA,NA,NA,1
+Carson Fulmer,2016,70,2016,2016,,,,2017,,,,2018,,,,Chicago White Sox,2,P,P,200,R,R,12/13/93,"Lakeland,FL",2015,1,8,CHA,MLB,2020,70,2,38,1,NA,NA,1
+Jed Bradley,2012,71,2016,2016,7,0,4.58,2017,,,,2018,,,,Milwaukee Brewers,3,P,P,203,L,L,6/12/90,"Huntsville,AL",2011,1,15,MIL,MLB,2016,71,3,NA,NA,NA,NA,1
+Jesse Biddle,2014,71,2018,2018,63,0.3,3.88,2019,28,-0.4,6.46,2020,0.2,0,4.69,Philadelphia Phillies,2,P,P,225,L,L,10/22/91,"Philadelphia,PA",2010,1,27,PHI,MLB,2020,71,2,NA,NA,NA,NA,1
+Jhoulys Chacin,2010,71,2009,2010,,,,2011,,,,2012,,,,Colorado Rockies,4,P,P,168,R,R,1/7/88,"Maracaibo,VZ",2004,0,0,COL,MLB,2020,71,4,NA,NA,NA,NA,1
+Jake McGee,2011,71,2010,2011,,,,2012,,,,2013,,,,Tampa Bay Rays,4,P,P,190,L,L,8/6/86,"San Jose,CA",2004,5,135,TBA,MLB,2020,71,4,NA,NA,NA,NA,1
+Mike Leake,2010,72,2010,2010,,,,2011,,,,2012,,,,Cincinnati Reds,3,P,P,160,R,R,11/12/87,"San Diego,CA",2009,1,8,CIN,MLB,2019,72,3,NA,NA,NA,NA,1
+Sean Reid-Foley,2017,75,2018,2018,,,,2019,,,,2020,,,,Toronto Blue Jays,3,P,P,216,R,R,8/30/95,"Jacksonville,FL",2014,2,49,TOR,MLB,2020,75,3,64,2,NA,NA,1
+Jake Thompson,2016,75,2016,2016,,,,2017,,,,2018,,,,Philadelphia Phillies,3,P,P,235,R,R,1/31/94,"Rockwall,TX",2012,2,91,DET,MLB,2018,75,3,55,2,NA,NA,1
+Braxton Garrett,2017,76,2020,2020,,,,2021,,,,2022,,,,Miami Marlins,1,P,P,190,B,L,8/5/97,"Foley,AL",2016,1,7,MIA,MLB,2020,76,1,43,1,NA,NA,1
+Tyler Chatwood,2011,76,2011,2011,,,,2012,,,,2013,,,,Los Angeles Angels,2,P,P,175,R,R,12/16/89,"Redlands,CA",2008,2,74,ANA,MLB,2020,76,2,NA,NA,NA,NA,1
+Michael Wacha,2013,76,2013,2013,,,,2014,,,,2015,,,,St. Louis Cardinals,6,P,P,195,R,R,7/1/91,"Iowa City,IA",2012,1,19,SLN,MLB,2020,76,6,NA,NA,NA,NA,1
+Lance McCullers,2014,77,2015,2015,,,,2016,,,,2017,,,,Houston Astros,5,P,P,190,L,R,10/2/93,"Tampa,FL",2012,1,41,HOU,MLB,2020,77,5,NA,NA,NA,NA,1
+Braden Shipley,2016,77,2016,2016,,,,2017,,,,2018,,,,Arizona Diamondbacks,1,P,P,170,R,R,2/22/92,"Medford,OR",2013,1,15,ARI,MLB,2018,77,1,67,1,NA,NA,1
+Eddie Butler,2015,77,2014,2015,,,,2016,,,,2017,,,,Colorado Rockies,4,P,P,165,B,R,3/13/91,"Chesapeake,VA",2012,1,46,COL,MLB,2018,77,4,NA,NA,NA,NA,1
+Andrew Brackman,2011,78,2011,2011,,,,2012,,,,2013,,,,New York Yankees,5,P,P,230,R,R,12/4/85,"Cincinnati,OH",2007,1,30,NYA,MLB,2011,78,5,NA,NA,NA,NA,1
+Sean Newcomb,2017,78,2017,2017,,,,2018,,,,2019,,,,Atlanta Braves,8,P,P,255,L,L,6/12/93,"Brockton,MA",2014,1,15,ANA,MLB,2020,78,8,80,6,NA,NA,1
+Luis Ortiz,2017,79,2018,2018,,,,2019,,,,2020,,,,Milwaukee Brewers,3,P,P,230,R,R,9/22/95,"Sanger,CA",2014,1,30,TEX,MLB,2019,79,3,62,4,NA,NA,1
+Amir Garrett,2017,81,2017,2017,,,,2018,,,,2019,,,,Cincinnati Reds,3,P,P,210,R,L,5/3/92,"Henderson,NV",2011,22,685,CIN,MLB,2020,81,3,66,2,NA,NA,1
+Martin Perez,2013,81,2012,2013,,,,2014,,,,2015,,,,Texas Rangers,3,P,P,200,L,L,4/4/91,"Guanare estado Portuguesa,VZ",2007,0,0,TEX,MLB,2020,81,3,NA,NA,NA,NA,1
+Brian Johnson,2015,82,2015,2015,,,,2016,,,,2017,,,,Boston Red Sox,5,P,P,225,L,L,12/7/90,"Lakeland,FL",2012,1,31,BOS,MLB,2019,82,5,NA,NA,NA,NA,1
+Tony Cingrani,2013,82,2012,2013,,,,2014,,,,2015,,,,Cincinnati Reds,3,P,P,205,L,L,7/5/89,"Evergreen Park,IL",2011,3,114,CIN,MLB,2018,82,3,NA,NA,NA,NA,1
+Chris Dwyer,2011,83,2013,2013,,,,2014,,,,2015,,,,Kansas City Royals,8,P,P,210,R,L,4/10/88,"Boston,MA",2009,4,122,KCA,MLB,2013,83,8,NA,NA,NA,NA,1
+Joe Musgrove,2016,83,2016,2016,,,,2017,,,,2018,,,,Houston Astros,6,P,P,230,R,R,12/4/92,"El Cajon,CA",2011,1,46,TOR,MLB,2020,83,6,8,NA,NA,NA,1
+Garrett Richards,2012,83,2011,2012,,,,2013,,,,2014,,,,Los Angeles Angels,3,P,P,200,R,R,5/27/88,"Riverside,CA",2009,1,42,ANA,MLB,2020,83,3,NA,NA,NA,NA,1
+Arodys Vizcaino,2013,83,2011,2013,,,,2014,,,,2015,,,,Chicago Cubs,4,P,P,189,R,R,11/13/90,"Yaguate,DR",2007,0,0,NYA,MLB,2019,83,4,NA,NA,NA,NA,1
+Trevor Bauer,2014,83,2012,2014,,,,2015,,,,2016,,,,Cleveland Indians,3,P,P,175,R,R,1/17/91,"North Hollywood,CA",2011,1,3,ARI,MLB,2020,83,3,NA,NA,NA,NA,1
+Tanner Scheppers,2011,84,2012,2012,,,,2013,,,,2014,,,,Texas Rangers,3,P,P,195,R,R,1/17/87,"Mission Viejo,CA",2009,1,44,TEX,MLB,2017,84,3,NA,NA,NA,NA,1
+Jharel Cotton,2017,84,2016,2017,,,,2018,,,,2019,,,,Oakland Athletics,4,P,P,180,R,R,1/19/92,"St. Thomas,VG",2012,20,626,LAN,MLB,2017,84,4,6,NA,NA,NA,1
+Kyle Zimmer,2016,85,2019,2019,,,,2020,,,,2021,,,,Kansas City Royals,2,P,P,185,R,R,9/13/91,"La Jolla,CA",2012,1,5,KCA,MLB,2020,85,2,65,2,NA,NA,1
+Justin Nicolino,2013,86,2015,2015,,,,2016,,,,2017,,,,Miami Marlins,6,P,P,195,L,L,11/22/91,"Orlando,FL",2010,2,80,TOR,MLB,2017,86,6,NA,NA,NA,NA,1
+Chad Bettis,2012,86,2013,2013,,,,2014,,,,2015,,,,Colorado Rockies,3,P,P,180,R,R,4/26/89,"Lubbock,TX",2010,2,76,COL,MLB,2019,86,3,NA,NA,NA,NA,1
+Craig Kimbrel,2011,86,2010,2011,,,,2012,,,,2013,,,,Atlanta Braves,5,P,P,205,R,R,5/28/88,"Huntsville,AL",2008,3,96,ATL,MLB,2020,86,5,NA,NA,NA,NA,1
+Pierce Johnson,2014,87,2017,2017,,,,2018,,,,2019,,,,Chicago Cubs,6,P,P,202,R,R,5/10/91,"Denver,CO",2012,1,43,CHN,MLB,2020,87,6,NA,NA,NA,NA,1
+James Kaprielian,2017,87,2020,2020,,,,2021,,,,2022,,,,New York Yankees,5,P,P,190,R,R,3/2/94,"Laguna Hills,CA",2015,1,16,NYA,MLB,2020,87,5,58,6,NA,NA,1
+Andy Oliver,2011,87,2010,2011,,,,2012,,,,2013,,,,Detroit Tigers,3,P,P,205,L,L,12/3/87,"Vermillon,OH",2009,2,58,DET,MLB,2011,87,3,NA,NA,NA,NA,1
+Anthony Banda,2017,88,2017,2017,,,,2018,,,,2019,,,,Arizona Diamondbacks,1,P,P,175,L,L,8/10/93,"Sinton,TX",2012,10,335,MIL,MLB,2020,88,1,1,NA,NA,NA,1
+Allen Webster,2014,88,2013,2014,,,,2015,,,,2016,,,,Boston Red Sox,4,P,P,165,R,R,2/10/90,"Madison,NC",2008,18,547,LAN,MLB,2019,88,4,NA,NA,NA,NA,1
+Tyler Beede,2017,89,2018,2018,,,,2019,,,,2020,,,,San Francisco Giants,1,P,P,200,R,R,5/23/93,"Auburn,MA",2014,1,14,SFN,MLB,2019,89,1,88,1,NA,NA,1
+Chi Chi Gonzalez,2015,89,2015,2015,,,,2016,,,,2017,,,,Texas Rangers,6,P,P,190,R,R,1/15/92,"Delray Beach,FL",2013,1,23,TEX,MLB,2020,89,6,NA,NA,NA,NA,1
+Touki Toussaint,2016,90,2018,2018,,,,2019,,,,2020,,,,Atlanta Braves,7,P,P,215,R,R,6/20/96,"Coral Springs,FL",2014,1,16,ARI,MLB,2020,90,7,6,NA,NA,NA,1
+Rubby De La Rosa,2011,90,2011,2011,,,,2012,,,,2013,,,,Los Angeles Dodgers,3,P,P,170,R,R,3/4/89,"Santo Domingo,DR",2007,0,0,LAN,MLB,2017,90,3,NA,NA,NA,NA,1
+AJ Cole,2015,91,2015,2015,,,,2016,,,,2017,,,,Washington Nationals,6,P,P,200,R,R,1/5/92,"Winter Springs,FL",2010,4,116,WAS,MLB,2020,91,6,NA,NA,NA,NA,1
+Drew Storen,2010,92,2010,2010,,,,2011,,,,2012,,,,Washington Nationals,3,P,P,180,B,R,8/11/87,"Indianapolis,IN",2009,1,10,WAS,MLB,2017,92,3,NA,NA,NA,NA,1
+Phillippe Aumont,2010,93,2012,2012,,,,2013,,,,2014,,,,Philadelphia Phillies,---,P,P,220,L,R,1/7/89,"Gatineau,QC",2007,1,11,SEA,MLB,2015,93,NA,NA,NA,NA,NA,1
+J.R. Graham,2013,93,2015,2015,,,,2016,,,,2017,,,,Atlanta Braves,2,P,P,170,R,R,1/14/90,"Sacramento,CA",2011,4,146,ATL,MLB,2016,93,2,NA,NA,NA,NA,1
+Tyrell Jenkins,2012,94,2016,2016,52,-0.9,6.86,2017,,,,2018,,,,St. Louis Cardinals,6,P,P,180,R,R,7/20/92,"Henderson,TX",2010,1,50,SLN,MLB,2016,94,6,NA,NA,NA,NA,1
+Daniel Corcino,2013,94,2014,2014,,,,2015,,,,2016,,,,Cincinnati Reds,4,P,P,165,R,R,8/26/90,"Azua,DR",2008,0,0,CIN,MLB,2018,94,4,NA,NA,NA,NA,1
+Deck McGuire,2011,95,2017,2017,13.2,0.3,3.16,2018,38,-0.8,6.95,2019,,,,Toronto Blue Jays,2,P,P,235,R,R,6/23/89,"Richmond,VA",2010,1,11,TOR,MLB,2018,95,2,NA,NA,NA,NA,1
+Zach Lee,2014,95,2015,2015,,,,2016,,,,2017,,,,Los Angeles Dodgers,4,P,P,195,R,R,9/13/91,"McKinney,TX",2010,1,28,LAN,MLB,2017,95,4,NA,NA,NA,NA,1
+Andrew Cashner,2010,95,2010,2010,,,,2011,,,,2012,,,,Chicago Cubs,4,P,P,185,R,R,9/11/86,"Montgomery,TX",2008,1,19,CHN,MLB,2019,95,4,NA,NA,NA,NA,1
+Bruce Rondon,2013,95,2013,2013,,,,2014,,,,2015,,,,Detroit Tigers,3,P,P,190,R,R,12/9/90,"Valencia,VZ",2007,0,0,DET,MLB,2018,95,3,NA,NA,NA,NA,1
+Joe Ross,2015,96,2015,2015,,,,2016,,,,2017,,,,Washington Nationals,---,P,P,185,R,R,5/21/93,"Oakland,CA",2011,1,25,SDN,MLB,2019,96,NA,NA,NA,NA,NA,1
+Nathan Eovaldi,2012,96,2011,2012,,,,2013,,,,2014,,,,Los Angeles Dodgers,3,P,P,217,R,R,2/13/90,"Alvin,TX",2008,11,337,LAN,MLB,2020,96,3,NA,NA,NA,NA,1
+Jimmy Nelson,2014,96,2013,2014,,,,2015,,,,2016,,,,Milwaukee Brewers,1,P,P,225,R,R,6/5/89,"Klamath Falls,OR",2010,2,64,MIL,MLB,2019,96,1,NA,NA,NA,NA,1
+Dylan Cease,2017,97,2019,2019,,,,2020,,,,2021,,,,Chicago Cubs,4,P,P,175,R,R,12/28/95,"Milton,GA",2014,6,169,CHN,MLB,2020,97,4,77,4,NA,NA,1
+Jay Jackson,2010,98,2015,2015,4.1,0.1,1.98,2016,,,,2017,,,,Chicago Cubs,5,P,P,195,R,R,10/27/87,"Greenville,SC",2008,9,281,CHN,MLB,2019,98,5,NA,NA,NA,NA,1
+Jake Arrieta,2010,99,2010,2010,,,,2011,,,,2012,,,,Baltimore Orioles,4,P,P,225,R,R,3/6/86,"Plano,TX",2007,5,159,BAL,MLB,2020,99,4,NA,NA,NA,NA,1
+James Paxton,2014,99,2013,2014,,,,2015,,,,2016,,,,Seattle Mariners,3,P,P,200,L,L,11/6/88,"Richmond,BC",2010,4,132,SEA,MLB,2020,99,3,NA,NA,NA,NA,1
+Justin Dunn,2017,100,2019,2019,,,,2020,,,,2021,,,,New York Mets,3,P,P,170,R,R,9/22/95,"Freeport,NY",2016,1,19,NYN,MLB,2020,100,3,3,NA,NA,NA,1
+Anderson Espinoza,2017,21,,,,,,1,,,,2,,,,San Diego Padres,1,P,P,160,R,R,3/9/98,"Caracas,VZ",2014,0,0,BOS,A,NA,21,1,25,2,NA,NA,0
+Yadier Alvarez,2017,26,,,,,,1,,,,2,,,,Los Angeles Dodgers,2,P,P,175,R,R,3/7/96,"Matanzas,CU",2015,0,0,LAN,AA,NA,26,2,49,2,NA,NA,0
+Mark Appel,2015,31,,,,,,1,,,,2,,,,Houston Astros,2,P,P,195,R,R,7/15/91,"Houston,TX",2013,1,1,HOU,AAA,NA,31,2,NA,NA,NA,NA,0
+Trey McNutt,2011,48,,,,,,1,,,,2,,,,Chicago Cubs,3,P,P,205,R,R,8/2/89,"Haleyville,AL",2009,32,980,CHN,AAA,NA,48,3,NA,NA,NA,NA,0
+Tyler Kolek,2015,52,,,,,,1,,,,2,,,,Miami Marlins,1,P,P,260,R,R,12/15/95,"Shepherd,TX",2014,1,2,MIA,A,NA,52,1,NA,NA,NA,NA,0
+Brody Colvin,2011,56,,,,,,1,,,,2,,,,Philadelphia Phillies,3,P,P,195,R,R,8/14/90,"Lafayette,LA",2009,7,227,PHI,AA,NA,56,3,NA,NA,NA,NA,0
+Jason Knapp,2010,64,,,,,,1,,,,2,,,,Cleveland Indians,4,P,P,225,R,R,8/31/90,"Annandale,NJ",2008,2,71,PHI,A+,NA,64,4,NA,NA,NA,NA,0
+Brady Aiken,2016,71,,,,,,1,,,,2,,,,Chicago White Sox,3,P,P,205,L,L,8/16/96,"San Diego,CA",2015,1,17,CLE,A,NA,71,3,4,NA,NA,NA,0
+Grant Holmes,2016,72,,,,,,1,,,,2,,,,Los Angeles Dodgers,6,P,P,215,L,R,3/22/96,"Conway,SC",2014,1,22,LAN,AAA,NA,72,6,62,4,NA,NA,0
+Chad James,2010,78,,,,,,1,,,,2,,,,Florida Marlins,3,P,P,190,L,L,1/23/91,"Yukon,OK",2009,1,18,MIA,AA,NA,78,3,NA,NA,NA,NA,0
+Luis Heredia,2013,78,,,,,,1,,,,2,,,,Pittsburgh Pirates,3,P,P,205,R,R,8/10/94,"Mazatlan,MX",2010,0,0,PIT,AAA,NA,78,3,NA,NA,NA,NA,0
+Stetson Allie,2011,79,,,,,,1,,,,2,,,,Pittsburgh Pirates,3,P,P,220,R,R,3/13/91,"Olmsted Falls,OH",2010,2,52,PIT,AAA,NA,79,3,NA,NA,NA,NA,0
+Tyler Jay,2016,80,,,,,,1,,,,2,,,,Minnesota Twins,5,P,P,170,L,L,4/19/94,"Lemont,IL",2015,1,6,MIN,AA,NA,80,5,60,4,NA,NA,0
+Noel Arguelles,2010,100,,,,,,1,,,,2,,,,Kansas City Royals,---,P,P,220,L,L,1/12/90,"Guira,CU",NA,NA,NA,NA,AA,NA,100,NA,NA,NA,NA,NA,0
+Spencer Adams,2015,100,,,,,,1,,,,2,,,,Chicago White Sox,3,P,P,171,R,R,4/13/96,"Cleveland,GA",2014,2,44,CHA,AAA,NA,100,3,NA,NA,NA,NA,0
